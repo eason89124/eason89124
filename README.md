@@ -7,7 +7,7 @@
 
 - ✏️ My study notes / teaching contents on Notion - 
   
-- 🚩 CTF writeups on Notion - 
+- 🚩 CTF writeups on Notion - [link](https://butternut-dinghy-bc9.notion.site/CTF-writeups-05ef4d1a4c154c4cacdc093d40f877bd?pvs=4)
 
 - 📑 Seminar report of paper - [link](https://github.com/eason89124/Seminar-Report)
   
