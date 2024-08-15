@@ -5,7 +5,7 @@
 
 - 📋 My personal schedule for forums / competitions / Schedule -
 
-- ✏️ My study notes / teaching contents on Notion - 
+- ✏️ My study notes / teaching contents on Notion - [link](https://butternut-dinghy-bc9.notion.site/ad800e21409d47b19f16f2a6c13d5cb1?v=d2d4c801bcc044869a0c9c432c650b2d&pvs=4)
   
 - 🚩 CTF writeups on Notion - [link](https://butternut-dinghy-bc9.notion.site/CTF-writeups-05ef4d1a4c154c4cacdc093d40f877bd?pvs=4)
 
