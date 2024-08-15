@@ -1,10 +1,13 @@
-- 🏫 NTUT 資訊安全碩士學位學程 / [is1ab](https://is1ab.com/) 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🏫 NTUT 資訊安全碩士學位學程 / [is1ab](https://is1ab.com/#/Member/2023/Eason) 
+
+- 📋 My personal schedule for forums / competitions / Schedule
+
+- 🗂️ My study notes / teaching contents on Notion
+  
+- 📖 CTF writeups on Notion
+
+- Seminar report of paper /Seminar-Report
+- How to reach me [s10511121@gmail.com]((s10511121@gmail.com?subject=[GitHub]%20Source%20Han%20Sans))
 
 <!---
 eason89124/eason89124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
