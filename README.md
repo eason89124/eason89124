@@ -5,7 +5,7 @@
 
 - 🏫 NTUT 資訊安全碩士學位學程 / [is1ab](https://is1ab.com/#/Member/2023/Eason) 
 
-- 📋 My personal schedule for forums / competitions / Certificate -
+- 📋 My personal schedule for forums / competitions / certificate -
 
 - ✏️ My study notes / teaching contents - [Notion](https://butternut-dinghy-bc9.notion.site/ad800e21409d47b19f16f2a6c13d5cb1?v=d2d4c801bcc044869a0c9c432c650b2d&pvs=4)
   
