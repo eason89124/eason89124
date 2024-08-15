@@ -3,15 +3,15 @@
 
 - 🏫 NTUT 資訊安全碩士學位學程 / [is1ab](https://is1ab.com/#/Member/2023/Eason) 
 
-- 📋 My personal schedule for forums / competitions / Schedule
+- 📋 My personal schedule for forums / competitions / Schedule -
 
-- ✏️ My study notes / teaching contents on Notion
+- ✏️ My study notes / teaching contents on Notion - 
   
-- 🚩 CTF writeups on Notion
+- 🚩 CTF writeups on Notion - 
 
-- 📑 Seminar report of paper - (link)[]
+- 📑 Seminar report of paper - [link](https://github.com/eason89124/Seminar-Report)
   
-- 📨 How to reach me [s10511121@gmail.com](mailto:s10511121@gmail.com)
+- 📨 How to reach me - [s10511121@gmail.com](mailto:s10511121@gmail.com)
 
 ![](https://raw.githubusercontent.com/eason89124/eason89124/output/github-contribution-grid-snake.svg)
 
