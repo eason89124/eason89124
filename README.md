@@ -9,7 +9,7 @@
   
 - 🚩 CTF writeups - [Notion](https://butternut-dinghy-bc9.notion.site/CTF-writeups-05ef4d1a4c154c4cacdc093d40f877bd?pvs=4)
 
-- 📑 Seminar report of paper - [link](https://github.com/eason89124/Seminar-Report)
+- 📑 Seminar report of paper - [Seminar-Report](https://github.com/eason89124/Seminar-Report)
   
 - 📨 How to reach me - [s10511121@gmail.com](mailto:s10511121@gmail.com)
 
