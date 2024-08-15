@@ -6,8 +6,9 @@
   
 - 📖 CTF writeups on Notion
 
-- Seminar report of paper /Seminar-Report
-- How to reach me [s10511121@gmail.com](mailto:s10511121@gmail.com)
+- 📃 Seminar report of paper /Seminar-Report
+  
+- ✉️ How to reach me [s10511121@gmail.com](mailto:s10511121@gmail.com)
 
 <!---
 eason89124/eason89124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
