@@ -13,7 +13,7 @@
   
 - 📨 How to reach me [s10511121@gmail.com](mailto:s10511121@gmail.com)
 
-![](https://raw.githubusercontent.com/eason89124/eason89124/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/eason89124/eason89124/output/github-contribution-grid-snake.svg)
 
 <!---
 eason89124/eason89124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
