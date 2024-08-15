@@ -4,7 +4,7 @@
 
 - 🗂️ My study notes / teaching contents on Notion
   
-- 📖 CTF writeups on Notion
+- 📒 CTF writeups on Notion
 
 - 📃 Seminar report of paper /Seminar-Report
   
