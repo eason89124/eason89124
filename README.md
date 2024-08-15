@@ -9,7 +9,7 @@
   
 - 🚩 CTF writeups on Notion
 
-- 📑 Seminar report of paper /Seminar-Report
+- 📑 Seminar report of paper - (link)[]
   
 - 📨 How to reach me [s10511121@gmail.com](mailto:s10511121@gmail.com)
 
