@@ -7,7 +7,7 @@
 - 📖 CTF writeups on Notion
 
 - Seminar report of paper /Seminar-Report
-- How to reach me [s10511121@gmail.com]((s10511121@gmail.com?subject=[GitHub]%20Source%20Han%20Sans))
+- How to reach me [s10511121@gmail.com](mailto:s10511121@gmail.com)
 
 <!---
 eason89124/eason89124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
