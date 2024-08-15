@@ -1,7 +1,7 @@
 
 # <p align="center">" Graduate student / CTF - Pwner 🚩 "</p>
 
-- 👤 本名 - "許貽昇"
+- 👤 本名 - " 許貽昇 "
 
 - 🏫 NTUT 資訊安全碩士學位學程 / [is1ab](https://is1ab.com/#/Member/2023/Eason) 
 
